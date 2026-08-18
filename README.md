@@ -92,7 +92,7 @@ Manual and automation testing practice for an e-commerce application.
 - Selenium automation
 
 **Technologies:**  
-`Selenium` `Java` `TestNG` `Maven`,DataDriven
+`Selenium` `Java` `TestNG` `Maven` `Data-Driven Testing`
 
 ---
 
@@ -158,7 +158,7 @@ Selenium WebDriver automation practice using Java.
 
 **Technologies:**
 
-`Java` `Selenium WebDriver` `TestNG` `Maven`'DataDriven Testing'
+`Java` `Selenium WebDriver` `TestNG` `Maven` `Data-Driven Testing`
 
 ---
 
@@ -192,7 +192,6 @@ Selenium WebDriver automation practice using Java.
 - WebDriverWait
 - Actions Class
 - JavaScriptExecutor
-- - Data-Driven Testing
 - Excel Test Data
 - Apache POI
 - TestNG DataProvider
@@ -219,7 +218,7 @@ Selenium WebDriver automation practice using Java.
 - 🌐 API Testing
 - 🚀 Jenkins CI/CD
 - 🔧 Git & GitHub
-- 🎭 Playwright
+  
 
 ---
 
