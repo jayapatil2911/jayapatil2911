@@ -45,6 +45,7 @@ I am currently building my practical knowledge through **QA projects, automation
 ![TestNG](https://img.shields.io/badge/TestNG-FF0000?style=for-the-badge)
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Data-Driven Testing](https://img.shields.io/badge/Data--Driven%20Testing-6A5ACD?style=for-the-badge)
 
 ### 🌐 API & Database
 
@@ -156,7 +157,7 @@ Selenium WebDriver automation practice using Java.
 
 **Technologies:**
 
-`Java` `Selenium WebDriver` `TestNG` `Maven`
+`Java` `Selenium WebDriver` `TestNG` `Maven`'DataDriven'
 
 ---
 
