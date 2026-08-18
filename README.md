@@ -224,7 +224,7 @@ Selenium WebDriver automation practice using Java.
 
 # 🎯 Career Goal
 
-I am looking to start/grow my career as a:
+I am looking to start my career as a:
 
 **Software Test Engineer | QA Engineer | Manual Tester | QA Automation Engineer**
 
