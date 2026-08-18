@@ -90,7 +90,7 @@ Manual and automation testing practice for an e-commerce application.
 - Selenium automation
 
 **Technologies:**  
-`Selenium` `Java` `TestNG` `Maven`
+`Selenium` `Java` `TestNG` `Maven`,DataDriven
 
 ---
 
